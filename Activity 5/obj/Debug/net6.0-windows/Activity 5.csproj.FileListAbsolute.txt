@@ -1,0 +1,18 @@
+E:\WorkspaceCST-150\Activity 5\bin\Debug\net6.0-windows\Activity 5.exe
+E:\WorkspaceCST-150\Activity 5\bin\Debug\net6.0-windows\Activity 5.deps.json
+E:\WorkspaceCST-150\Activity 5\bin\Debug\net6.0-windows\Activity 5.runtimeconfig.json
+E:\WorkspaceCST-150\Activity 5\bin\Debug\net6.0-windows\Activity 5.dll
+E:\WorkspaceCST-150\Activity 5\bin\Debug\net6.0-windows\Activity 5.pdb
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.csproj.GenerateResource.cache
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.dll
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\refint\Activity 5.dll
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.pdb
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity 5.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\ref\Activity 5.dll
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity_5.MainForm.resources
+E:\WorkspaceCST-150\Activity 5\obj\Debug\net6.0-windows\Activity_5.ProcessForm.resources
