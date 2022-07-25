@@ -1,0 +1,17 @@
+E:\WorkspaceCST-150\Activity 7\bin\Debug\net6.0-windows\Activity 7.exe
+E:\WorkspaceCST-150\Activity 7\bin\Debug\net6.0-windows\Activity 7.deps.json
+E:\WorkspaceCST-150\Activity 7\bin\Debug\net6.0-windows\Activity 7.runtimeconfig.json
+E:\WorkspaceCST-150\Activity 7\bin\Debug\net6.0-windows\Activity 7.dll
+E:\WorkspaceCST-150\Activity 7\bin\Debug\net6.0-windows\Activity 7.pdb
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity_7.Form1.resources
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.csproj.GenerateResource.cache
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.dll
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\refint\Activity 7.dll
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.pdb
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\Activity 7.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity 7\obj\Debug\net6.0-windows\ref\Activity 7.dll
