@@ -1,0 +1,17 @@
+E:\WorkspaceCST-150\Activity8\bin\Debug\net6.0-windows\Activity8.exe
+E:\WorkspaceCST-150\Activity8\bin\Debug\net6.0-windows\Activity8.deps.json
+E:\WorkspaceCST-150\Activity8\bin\Debug\net6.0-windows\Activity8.runtimeconfig.json
+E:\WorkspaceCST-150\Activity8\bin\Debug\net6.0-windows\Activity8.dll
+E:\WorkspaceCST-150\Activity8\bin\Debug\net6.0-windows\Activity8.pdb
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.Form1.resources
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.GenerateResource.cache
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.dll
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\refint\Activity8.dll
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.pdb
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\Activity8.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity8\obj\Debug\net6.0-windows\ref\Activity8.dll
