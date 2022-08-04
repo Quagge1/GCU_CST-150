@@ -1,0 +1,15 @@
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity11\bin\Debug\net6.0\Activity11.exe
+E:\WorkspaceCST-150\Activity11\bin\Debug\net6.0\Activity11.deps.json
+E:\WorkspaceCST-150\Activity11\bin\Debug\net6.0\Activity11.runtimeconfig.json
+E:\WorkspaceCST-150\Activity11\bin\Debug\net6.0\Activity11.dll
+E:\WorkspaceCST-150\Activity11\bin\Debug\net6.0\Activity11.pdb
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.dll
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\refint\Activity11.dll
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.pdb
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\Activity11.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity11\obj\Debug\net6.0\ref\Activity11.dll
