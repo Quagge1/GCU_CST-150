@@ -20,7 +20,7 @@ namespace Activity11
 
             rollCount = 0;
 
-            //do while loop to roll the dice unless they are both 1 or snake eyes
+            //do while loop to roll the dice unless they are both 1/snake eyes
             do
             {
                 die1.roll();
