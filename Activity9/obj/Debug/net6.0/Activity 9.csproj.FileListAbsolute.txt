@@ -1,0 +1,15 @@
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity 9\bin\Debug\net6.0\Activity 9.exe
+E:\WorkspaceCST-150\Activity 9\bin\Debug\net6.0\Activity 9.deps.json
+E:\WorkspaceCST-150\Activity 9\bin\Debug\net6.0\Activity 9.runtimeconfig.json
+E:\WorkspaceCST-150\Activity 9\bin\Debug\net6.0\Activity 9.dll
+E:\WorkspaceCST-150\Activity 9\bin\Debug\net6.0\Activity 9.pdb
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.dll
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\refint\Activity 9.dll
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.pdb
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\Activity 9.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity 9\obj\Debug\net6.0\ref\Activity 9.dll
