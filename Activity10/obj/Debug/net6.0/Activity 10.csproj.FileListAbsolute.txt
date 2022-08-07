@@ -1,0 +1,15 @@
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity 10\bin\Debug\net6.0\Activity 10.exe
+E:\WorkspaceCST-150\Activity 10\bin\Debug\net6.0\Activity 10.deps.json
+E:\WorkspaceCST-150\Activity 10\bin\Debug\net6.0\Activity 10.runtimeconfig.json
+E:\WorkspaceCST-150\Activity 10\bin\Debug\net6.0\Activity 10.dll
+E:\WorkspaceCST-150\Activity 10\bin\Debug\net6.0\Activity 10.pdb
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.dll
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\refint\Activity 10.dll
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.pdb
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\Activity 10.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity 10\obj\Debug\net6.0\ref\Activity 10.dll
