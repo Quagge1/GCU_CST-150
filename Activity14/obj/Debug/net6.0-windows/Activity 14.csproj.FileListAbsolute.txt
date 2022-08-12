@@ -1,0 +1,17 @@
+E:\WorkspaceCST-150\Activity 14\bin\Debug\net6.0-windows\Activity 14.exe
+E:\WorkspaceCST-150\Activity 14\bin\Debug\net6.0-windows\Activity 14.deps.json
+E:\WorkspaceCST-150\Activity 14\bin\Debug\net6.0-windows\Activity 14.runtimeconfig.json
+E:\WorkspaceCST-150\Activity 14\bin\Debug\net6.0-windows\Activity 14.dll
+E:\WorkspaceCST-150\Activity 14\bin\Debug\net6.0-windows\Activity 14.pdb
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity_14.Form1.resources
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.csproj.GenerateResource.cache
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.dll
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\refint\Activity 14.dll
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.pdb
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\Activity 14.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity 14\obj\Debug\net6.0-windows\ref\Activity 14.dll
