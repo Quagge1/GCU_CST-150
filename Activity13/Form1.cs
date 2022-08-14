@@ -155,7 +155,7 @@ namespace Activity13
                 }
             }
         }
-        //assigning all buttons grid locations to track clicks and assign X or O to players
+        //assigning all buttons grid locations to track clicks and assign X or O to players based on player turn
         private void buttonA1_Click(object sender, EventArgs e)
         {
             buttonA1.Enabled = false;
