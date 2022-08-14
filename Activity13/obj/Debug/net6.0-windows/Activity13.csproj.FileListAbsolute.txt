@@ -1,0 +1,17 @@
+E:\WorkspaceCST-150\Activity13\bin\Debug\net6.0-windows\Activity13.exe
+E:\WorkspaceCST-150\Activity13\bin\Debug\net6.0-windows\Activity13.deps.json
+E:\WorkspaceCST-150\Activity13\bin\Debug\net6.0-windows\Activity13.runtimeconfig.json
+E:\WorkspaceCST-150\Activity13\bin\Debug\net6.0-windows\Activity13.dll
+E:\WorkspaceCST-150\Activity13\bin\Debug\net6.0-windows\Activity13.pdb
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.csproj.AssemblyReference.cache
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.Form1.resources
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.csproj.GenerateResource.cache
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.AssemblyInfoInputs.cache
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.AssemblyInfo.cs
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.csproj.CoreCompileInputs.cache
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.dll
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\refint\Activity13.dll
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.pdb
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\Activity13.genruntimeconfig.cache
+E:\WorkspaceCST-150\Activity13\obj\Debug\net6.0-windows\ref\Activity13.dll
