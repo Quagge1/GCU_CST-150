@@ -72,7 +72,7 @@ namespace Activity_15
             {
                 LuckyNum.ForeColor = Color.Blue;
             }
-            else if(Form1.instance.tb1.Text == " Pisces")
+            else if(Form1.instance.tb1.Text == "Pisces")
             {
                 LuckyNum.ForeColor = Color.Cyan;
             }
