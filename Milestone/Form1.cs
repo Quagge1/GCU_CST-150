@@ -62,6 +62,8 @@ namespace Milestone
 
         private void Form1Main_Load(object sender, EventArgs e)
         {
+            //New feature added as requested by the assignment
+            MessageBox.Show("Welcome to the Gamer Store, Check out what we have available");
             //Adding all items for purchase to the Online store
             MainInventory.AddProduct(new Product("PS5", "Console", 500.00, 1));
             MainInventory.AddProduct(new Product("XBOX", "Console", 500.00, 1));
@@ -73,6 +75,7 @@ namespace Milestone
             MainInventory.AddProduct(new Product("Mouse", "Periphrials", 80.00, 1));
             MainInventory.AddProduct(new Product("Keyboard", "Periphrials", 120.00, 1));
             ImportInventory();
+            
 
 
         }
@@ -98,6 +101,12 @@ namespace Milestone
                     comboBox3.Items.Add(p.showProdcutName());
                 }
             }
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            //new feature added for assignment
+            this.Close();
         }
     }
 }

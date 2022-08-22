@@ -16,3 +16,4 @@ E:\WorkspaceCST-150\Milestone\obj\Debug\net6.0-windows\Milestone.genruntimeconfi
 E:\WorkspaceCST-150\Milestone\obj\Debug\net6.0-windows\ref\Milestone.dll
 E:\WorkspaceCST-150\Milestone\obj\Debug\net6.0-windows\Milestone.Form1Main.resources
 E:\WorkspaceCST-150\Milestone\obj\Debug\net6.0-windows\Milestone.Form2Cart.resources
+E:\WorkspaceCST-150\Milestone\obj\Debug\net6.0-windows\Milestone.Properties.Resources.resources
